@@ -1,0 +1,54 @@
+RESUME SCREENING REPORT - Job Title: Python Developer (Data & Automation)
+============================================================
+Candidates screened : 8
+Shortlisted         : 5
+Manual review       : 0
+Rejected            : 3
+
+#1  aarav_sharma.pdf  |  score 90.0  |  Shortlisted
+    matched required : git, pandas, python, rest api, sql
+    MISSING required : -
+    preferred found  : aws, docker, flask, scikit-learn
+    experience       : 4.0 yrs | education: bachelors
+
+#2  ananya_rao.txt  |  score 78.3  |  Shortlisted
+    matched required : git, pandas, python, rest api, sql
+    MISSING required : -
+    preferred found  : docker, machine learning, scikit-learn
+    experience       : 2.0 yrs | education: masters
+
+#3  diya_patel.docx  |  score 75.2  |  Shortlisted
+    matched required : git, pandas, python, rest api, sql
+    MISSING required : -
+    preferred found  : machine learning
+    experience       : 3.0 yrs | education: bachelors
+
+#4  sara_khan.docx  |  score 63.6  |  Shortlisted
+    matched required : git, python, rest api, sql
+    MISSING required : pandas
+    preferred found  : docker
+    experience       : 5.0 yrs | education: bachelors
+
+#5  meera_nair.pdf  |  score 62.5  |  Shortlisted
+    matched required : git, pandas, python, sql
+    MISSING required : rest api
+    preferred found  : -
+    experience       : 3.0 yrs | education: masters
+
+#6  rohan_verma.txt  |  score 34.4  |  Rejected
+    matched required : git, python
+    MISSING required : pandas, rest api, sql
+    preferred found  : flask
+    experience       : 1.0 yrs | education: bachelors
+
+#7  kabir_singh.docx  |  score 26.8  |  Rejected
+    matched required : sql
+    MISSING required : git, pandas, python, rest api
+    preferred found  : -
+    experience       : 6.0 yrs | education: bachelors
+
+#8  vikram_joshi.pdf  |  score 1.4  |  Rejected
+    matched required : -
+    MISSING required : git, pandas, python, rest api, sql
+    preferred found  : -
+    experience       : 0.0 yrs | education: bachelors

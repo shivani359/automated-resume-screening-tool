@@ -1,0 +1,6 @@
+rank,candidate,score,decision,required_match_%,matched_required,missing_required,matched_preferred,years_experience,education,tfidf_similarity
+1,aarav_sharma.pdf,90.0,Shortlisted,100,"git, pandas, python, rest api, sql",-,"aws, docker, flask, scikit-learn",4.0,bachelors,0.341
+2,ananya_rao.txt,78.3,Shortlisted,100,"git, pandas, python, rest api, sql",-,"docker, machine learning, scikit-learn",2.0,masters,0.146
+3,diya_patel.docx,75.2,Shortlisted,100,"git, pandas, python, rest api, sql",-,machine learning,3.0,bachelors,0.165
+4,sara_khan.docx,63.6,Shortlisted,80,"git, python, rest api, sql",pandas,docker,5.0,bachelors,0.132
+5,meera_nair.pdf,62.5,Shortlisted,80,"git, pandas, python, sql",rest api,-,3.0,masters,0.149

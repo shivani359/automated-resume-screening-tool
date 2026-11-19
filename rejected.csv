@@ -1,0 +1,4 @@
+rank,candidate,score,decision,required_match_%,matched_required,missing_required,matched_preferred,years_experience,education,tfidf_similarity
+6,rohan_verma.txt,34.4,Rejected,40,"git, python","pandas, rest api, sql",flask,1.0,bachelors,0.097
+7,kabir_singh.docx,26.8,Rejected,20,sql,"git, pandas, python, rest api",-,6.0,bachelors,0.036
+8,vikram_joshi.pdf,1.4,Rejected,0,,"git, pandas, python, rest api, sql",-,0.0,bachelors,0.028

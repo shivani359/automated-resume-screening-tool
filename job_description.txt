@@ -1,0 +1,18 @@
+Job Title: Python Developer (Data & Automation)
+
+We are looking for a Python Developer to build data pipelines and automation tools.
+
+Required Skills:
+Python, SQL, Pandas, Git, REST API
+
+Preferred Skills:
+Flask, Docker, Machine Learning, scikit-learn, AWS
+
+Experience: 2+ years of professional experience with Python.
+Education: Bachelor's degree in Computer Science or related field.
+
+Responsibilities:
+- Build and maintain data processing pipelines using Python and Pandas
+- Design REST APIs and integrate third-party services
+- Write SQL queries for reporting and analytics
+- Collaborate using Git and code reviews

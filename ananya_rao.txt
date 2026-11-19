@@ -1,0 +1,5 @@
+Ananya Rao
+Machine Learning Engineer
+Skills: Python, Pandas, NumPy, scikit-learn, TensorFlow, SQL, Git, Docker, NLP
+Experience: 2 years of experience training NLP models and exposing them through REST API endpoints.
+Education: M.Tech in Artificial Intelligence

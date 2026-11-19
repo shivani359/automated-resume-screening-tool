@@ -1,0 +1,5 @@
+Rohan Verma
+Junior Python Developer
+Skills: Python, Git, Flask, HTML, CSS
+Experience: 1 year of experience. Built a small Flask blog and a to-do app.
+Education: B.Tech in Information Technology

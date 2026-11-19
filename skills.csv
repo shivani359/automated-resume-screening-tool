@@ -1,0 +1,36 @@
+skill,aliases
+python,python3
+sql,mysql|postgresql|postgres|sqlite|t-sql
+pandas,
+numpy,
+git,github|gitlab
+rest api,restful|rest apis|rest|api development
+flask,
+django,
+fastapi,
+docker,containerization
+kubernetes,k8s
+machine learning,ml
+scikit-learn,sklearn
+nlp,natural language processing
+aws,amazon web services|ec2
+azure,
+java,
+javascript,
+c++,
+c#,
+html,
+css,
+react,reactjs
+excel,ms excel|advanced excel
+power bi,powerbi
+tableau,
+data analysis,data analytics
+data visualization,matplotlib|seaborn
+streamlit,
+linux,
+selenium,
+web scraping,beautifulsoup|scrapy
+tensorflow,
+pytorch,
+communication,

@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+# Never commit real resumes (personal data). Samples here are synthetic.
+resumes_private/
